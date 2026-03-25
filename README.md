@@ -1,14 +1,12 @@
 # 🧠 Memoteca - Organizando Pensamentos
 
-O **Memoteca** é uma aplicação web desenvolvida para gerenciar murais de pensamentos, permitindo ao usuário criar, listar, editar e excluir mensagens (CRUD). O projeto foca no consumo de uma API REST simulada para persistência de dados.
-
-
+O **Memoteca** é uma aplicação web desenvolvida para gerenciar murais de pensamentos, permitindo ao usuário criar, listar, editar e excluir mensagens (CRUD). O projeto foca no consumo de uma API simulada para persistência de dados.
 
 ## 🚀 Tecnologias Utilizadas
 
 Este projeto foi construído com as seguintes tecnologias:
 
-* **JavaScript (ES6+):** Lógica principal e manipulação do DOM.
+* **JavaScript:** Lógica principal e manipulação do DOM.
 * **JSON Server:** Ferramenta para criar uma API Fake completa e rápida.
 * **HTML5 & CSS3:** Estrutura e estilização da interface.
 
